@@ -1,0 +1,21 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Java CS Projects/AndroidOneFinalProject/app/src/main/res/drawable/custom_button.xml" value="0.304" />
+        <entry key="..\:/Java CS Projects/AndroidOneFinalProject/app/src/main/res/drawable/linear_layout_border.xml" value="0.275" />
+        <entry key="..\:/Java CS Projects/AndroidOneFinalProject/app/src/main/res/layout/activity_main.xml" value="0.23777173913043478" />
+        <entry key="..\:/Java CS Projects/AndroidOneFinalProject/app/src/main/res/layout/fragment_games.xml" value="0.33" />
+        <entry key="..\:/Java CS Projects/AndroidOneFinalProject/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/Java CS Projects/AndroidOneFinalProject/app/src/main/res/layout/fragment_signup.xml" value="0.33" />
+        <entry key="..\:/Java CS Projects/AndroidOneFinalProject/app/src/main/res/layout/list_item.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

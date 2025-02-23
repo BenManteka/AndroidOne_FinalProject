@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173489405717",
+    "project_id": "benproject-9261c",
+    "storage_bucket": "benproject-9261c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173489405717:android:dc20e355e642b252beb31c",
+        "android_client_info": {
+          "package_name": "com.hit.androidonefinalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChb5ncDNnWoIenpCwcLFrxfppoDAQXKDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
